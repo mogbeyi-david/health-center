@@ -1,0 +1,164 @@
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript">
+    var markers = [
+        {
+            "title": 'Ekiti East',
+            "lat": '7.7309388',
+            "lng": '5.6698281918',
+            "description": 'Malaria Patient in Ekiti East Local Government',
+            "type": 'Hospital'
+        },
+        {
+            "title": 'Moba',
+            "lat": '8.0010',
+            "lng": '5.1319',
+            "description": 'Malaria Patient in Moba Local Government',
+            "type": 'Hospital'
+        },
+        {
+            "title": 'Ikeja',
+            "lat": '6.6018',
+            "lng": '3.3515',
+            "description": 'Cholera Patient in Ikeja, Lagos Local Government',
+            "type": 'Hospital'
+        },
+        {
+            "title": 'Efon',
+            "lat": '7.6559668',
+            "lng": '4.919504659999998',
+            "description": 'Tuberculosis Patient in Efon Local Government',
+            "type": 'Beach'
+        },
+        {
+            "title": 'Alimosho',
+            "lat": '6.4553',
+            "lng": '3.3641',
+            "description": 'Tuberculosis Patient in Efon Local Government',
+            "type": 'Beach'
+        },
+        {
+            "title": 'Badagry',
+            "lat": '6.4316',
+            "lng": '2.8876',
+            "description": 'Girgaum Beach',
+            "type": 'Beach'
+        },
+        {
+            "title": 'Epe',
+            "lat": '6.5841',
+            "lng": '3.9834',
+            "description": 'Oberoi Mall',
+            "type": 'Mall'
+        },
+        {
+            "title": 'Ibeju Lekki',
+            "lat": '6.4963',
+            "lng": '3.0965',
+            "description": 'Infinity Mall',
+            "type": 'School'
+        },
+        {
+            "title": 'Eti Osa',
+            "lat": '6.4590',
+            "lng": '3.6015',
+            "description": 'Phoenix Mall',
+            "type": 'Mall'
+        },{
+            "title": 'Eti Osa',
+            "lat": '6.4590',
+            "lng": '3.6015',
+            "description": 'Phoenix Mall',
+            "type": 'Mall'
+        },{
+            "title": 'Eti Osa',
+            "lat": '6.4590',
+            "lng": '3.6015',
+            "description": 'Phoenix Mall',
+            "type": 'Mall'
+        },
+        {
+            "title": 'Ibeju Lekki',
+            "lat": '6.4963',
+            "lng": '3.0965',
+            "description": 'Infinity Mall',
+            "type": 'School'
+        }
+
+    ];
+    window.onload = function () {
+
+        var mapOptions = {
+            center: new google.maps.LatLng(markers[0].lat, markers[0].lng),
+            zoom: 8,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        var infoWindow = new google.maps.InfoWindow();
+        var latlngbounds = new google.maps.LatLngBounds();
+        var map = new google.maps.Map(document.getElementById("dvMap"), mapOptions);
+        var i = 0;
+        var interval = setInterval(function () {
+            var data = markers[i]
+            var myLatlng = new google.maps.LatLng(data.lat, data.lng);
+            var icon = "";
+            switch (data.type) {
+                case "Hospital":
+                    icon = "red";
+                    break;
+                case "Beach":
+                    icon = "blue";
+                    break;
+                case "Mall":
+                    icon = "yellow";
+                    break;
+                case "Park":
+                    icon = "green";
+                    break;
+                case "School":
+                    icon = "black";
+                    break;
+            }
+            icon = "http://maps.google.com/mapfiles/ms/icons/" + icon + ".png";
+            var marker = new google.maps.Marker({
+                position: myLatlng,
+                map: map,
+                title: data.title,
+                animation: google.maps.Animation.DROP,
+                icon: new google.maps.MarkerImage(icon)
+            });
+            (function (marker, data) {
+                google.maps.event.addListener(marker, "click", function (e) {
+                    infoWindow.setContent(data.description);
+                    infoWindow.open(map, marker);
+                });
+            })(marker, data);
+            latlngbounds.extend(marker.position);
+            i++;
+            if (i == markers.length) {
+                clearInterval(interval);
+                var bounds = new google.maps.LatLngBounds();
+                map.setCenter(latlngbounds.getCenter());
+                map.fitBounds(latlngbounds);
+            }
+        }, 80);
+    }
+</script>
+<table>
+    <tr>
+        <td>
+            <div id="dvMap" style="width: 500px; height: 500px">
+            </div>
+        </td>
+        <td valign="top">
+            <u>Legend:</u><br />
+            <img alt="" src="http://maps.google.com/mapfiles/ms/icons/red.png" />
+            Malaria<br />
+            <img alt="" src="http://maps.google.com/mapfiles/ms/icons/blue.png" />
+            Cholera<br />
+            <img alt="" src="http://maps.google.com/mapfiles/ms/icons/yellow.png" />
+            Thyphoid<br />
+            <img alt="" src="http://maps.google.com/mapfiles/ms/icons/green.png" />
+            Tuberculosis<br />
+            (One Marker Represents a maximum of 3 Patients)
+        </td>
+    </tr>
+</table>

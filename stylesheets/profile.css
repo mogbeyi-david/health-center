@@ -1,0 +1,24 @@
+.commands img{
+	height:120px;
+	width:120px;
+}
+h1{
+	color:#4169e1;
+}
+.button {
+    background-color: #4169e1;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.button:hover{
+	background-color: #e7e7e7; 
+	color: black;
+	cursor: pointer;
+}

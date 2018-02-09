@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83511def-f256-471e-a96a-241c507265d5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Health-Center" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ubuntu-Light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ubuntu-Light.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ubuntu-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ubuntu-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Keep_Calm_And_Let_The_Paediatric_Nurse_Handle_It_-_white_grande.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/baby.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg-body.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg-content.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg-header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg-header2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg-heading.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/button-submit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/checkup.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/chemist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/diagnostic-center.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/doctor.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/doctor2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/doctor3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dummy_image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/dummy_image2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/emergency.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/general-services.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/hematology.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/immunization.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/laboratory-services.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/laboratory.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/lobby.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/login.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/oaulogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/paediatric-operative-dentistry-79-638.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pathology-and-dna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/radiology.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/register.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/register2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/research.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/telephone.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/test.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/test2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/test3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/urine-and-drug-testing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vaccines.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/x-ray.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/css/blur.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/css/dosis-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/css/fontawesome-webfont-ie-fix.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/css/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/css/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/css/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/css/segoe.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/install/images/checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/install/images/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/HEALTH CENTER.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Mogbeyi_David.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/add_details.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/add_disease.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/consultation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/delete_a_patient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/delete_staff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/disease_distribution.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/edit_patient_profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/get_medical_history.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/in_patient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/lab_test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/manage_shift.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/messages.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/nurse_prescription.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/out_patient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/send_mail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/store_prescription.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/update_disease.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/update_immunization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/actions/update_patient_profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/validation/patient_image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/validation/validate_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/validation/validate_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/validation/validate_new_patient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/validation/validate_register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ubuntu-Light.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/get_home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/admission_status.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/register.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/validate_register.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/DBquery/update_a_patient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/DBquery/view_all_lab_test_results.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/DBquery/view_all_messages.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/DBquery/view_all_patients.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/DBquery/view_all_staff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/database/database_fns.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/database/server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myStates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/boot/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/details.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/css/ekattor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/css/font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/install/install.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/install/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/install/sliding.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/js/ekattor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/js/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/ekattor/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/new_disease.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/profile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/register.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/try.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/forms/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/forms/new_nurse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/forms/register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/forms/update_profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/forms/update_profile_nurse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/add_patient_details.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/delete_a_patient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/delete_staff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/disease_page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/distribution.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/edit_patient_profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/enterid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/immu_email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/immunization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/lab_test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/medical_history.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/new_disease.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/new_patient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/nurse_medical_history.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/patient_image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/prescription.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/hospital-forms/view_medical_history.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/includes/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/includes/sidebar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/maps/alimosho.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/maps/apapa.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/maps/badagry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/maps/efon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/maps/ekiti-east.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/maps/epe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/maps/gender.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/maps/ibeju-lekki.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/maps/ikeja.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/maps/ile-ife.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/maps/tests.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/profiles/admin_doc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/profiles/admin_nav.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/profiles/admin_nurse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/profiles/admin_profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/profiles/desk_nurse_nav.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/profiles/desk_nurse_profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/profiles/doctor_profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/profiles/nurse_profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/webpages/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/webpages/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/webpages/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/webpages/information.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/webpages/services.html" />
+    </list>
+    <ignored path="HEALTH CENTER.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HEALTH CENTER" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="get_medical_history.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controller/actions/get_medical_history.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding>
+                <marker date="1493134166362" expanded="true" signature="422:436" ph="..." />
+                <marker date="1493134166362" expanded="true" signature="479:531" ph="SELECT * FRO... disease" />
+                <marker date="1493134166362" expanded="true" signature="706:719" ph="..." />
+                <marker date="1493134166362" expanded="true" signature="841:855" ph="..." />
+                <marker date="1493134166362" expanded="true" signature="945:1386" ph="..." />
+                <marker date="1493134166362" expanded="true" signature="1480:2478" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/controller/actions/add_details.php" />
+        <option value="$PROJECT_DIR$/views/forms/update_profile.php" />
+        <option value="$PROJECT_DIR$/controller/validation/validate_new_patient.php" />
+        <option value="$PROJECT_DIR$/controller/actions/edit_patient_profile.php" />
+        <option value="$PROJECT_DIR$/views/hospital-forms/medical_history.php" />
+        <option value="$PROJECT_DIR$/controller/validation/validate_register.php" />
+        <option value="$PROJECT_DIR$/controller/actions/store_prescription.php" />
+        <option value="$PROJECT_DIR$/model/database/database_fns.php" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/views/maps/lagos.php" />
+        <option value="$PROJECT_DIR$/views/maps/ekiti.php" />
+        <option value="$PROJECT_DIR$/views/maps/ekiti-east.php" />
+        <option value="$PROJECT_DIR$/views/maps/efon.php" />
+        <option value="$PROJECT_DIR$/views/maps/moba.php" />
+        <option value="$PROJECT_DIR$/views/maps/apapa.php" />
+        <option value="$PROJECT_DIR$/views/maps/alimosho.php" />
+        <option value="$PROJECT_DIR$/views/maps/badagry.php" />
+        <option value="$PROJECT_DIR$/views/maps/epe.php" />
+        <option value="$PROJECT_DIR$/controller/actions/get_medical_history.php" />
+        <option value="$PROJECT_DIR$/controller/actions/lab_test.php" />
+        <option value="$PROJECT_DIR$/views/forms/new_nurse.php" />
+        <option value="$PROJECT_DIR$/views/maps/ibeju-lekki.php" />
+        <option value="$PROJECT_DIR$/views/maps/ikeja.php" />
+        <option value="$PROJECT_DIR$/testgeo.php" />
+        <option value="$PROJECT_DIR$/php_to_js.php" />
+        <option value="$PROJECT_DIR$/sandbox.html" />
+        <option value="$PROJECT_DIR$/sandbox.php" />
+        <option value="$PROJECT_DIR$/views/webpages/about.html" />
+        <option value="$PROJECT_DIR$/views/webpages/contact.html" />
+        <option value="$PROJECT_DIR$/views/webpages/contact.php" />
+        <option value="$PROJECT_DIR$/views/webpages/services.html" />
+        <option value="$PROJECT_DIR$/views/forms/login.php" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/views/hospital-forms/disease_page.php" />
+        <option value="$PROJECT_DIR$/views/webpages/information.html" />
+        <option value="$PROJECT_DIR$/gender.html" />
+        <option value="$PROJECT_DIR$/views/hospital-forms/distribution.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/views/includes/header.php" />
+        <option value="$PROJECT_DIR$/controller/actions/disease_distribution.php" />
+        <option value="$PROJECT_DIR$/stylesheets/test.js" />
+        <option value="$PROJECT_DIR$/try.php" />
+        <option value="$PROJECT_DIR$/myStates.php" />
+        <option value="$PROJECT_DIR$/views/hospital-forms/new_patient.php" />
+        <option value="$PROJECT_DIR$/controller/actions/delete_staff.php" />
+        <option value="$PROJECT_DIR$/controller/actions/messages.php" />
+        <option value="$PROJECT_DIR$/model/DBquery/update_a_patient.php" />
+        <option value="$PROJECT_DIR$/views/profiles/admin_doc.php" />
+        <option value="$PROJECT_DIR$/views/profiles/admin_nav.php" />
+        <option value="$PROJECT_DIR$/views/profiles/admin_nurse.php" />
+        <option value="$PROJECT_DIR$/views/profiles/desk_nurse_nav.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HEALTH CENTER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HEALTH CENTER" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="HEALTH CENTER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HEALTH CENTER" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="HEALTH CENTER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HEALTH CENTER" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="actions" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\works\HEALTH CENTER\views\maps" />
+      <recent name="C:\xampp\htdocs\works\HEALTH CENTER\controller\actions" />
+      <recent name="C:\xampp\htdocs\works\HEALTH CENTER\views\profiles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\works\HEALTH CENTER" />
+      <recent name="C:\xampp\htdocs\works\HEALTH CENTER\controller\validation" />
+      <recent name="C:\xampp\htdocs\works\HEALTH CENTER\views\profiles" />
+      <recent name="C:\xampp\htdocs\works\HEALTH CENTER\stylesheets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83511def-f256-471e-a96a-241c507265d5" name="Default" comment="" />
+      <created>2087755674352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>2087755674352</updated>
+      <workItem from="1494033106554" duration="118000" />
+      <workItem from="1494103485243" duration="617000" />
+      <workItem from="1510530318811" duration="873000" />
+      <workItem from="1518144451587" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1643000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19213313" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41776314" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/forms/update_profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/forms/update_profile_nurse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/add_patient_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/delete_a_patient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/delete_staff.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/disease_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/distribution.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/edit_patient_profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/new_patient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/nurse_medical_history.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/patient_image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/prescription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/view_medical_history.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/enterid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/immu_email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/immunization.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/medical_history.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hospital-forms/new_disease.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/maps/alimosho.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/maps/apapa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/maps/badagry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/maps/efon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/maps/ekiti-east.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/maps/epe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/maps/gender.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/maps/ibeju-lekki.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/maps/ikeja.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/maps/ile-ife.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/maps/tests.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/profiles/admin_nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/profiles/admin_nurse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/profiles/admin_profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/profiles/desk_nurse_nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/profiles/desk_nurse_profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/profiles/doctor_profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/profiles/nurse_profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/webpages/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/webpages/information.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/webpages/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/webpages/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myStates.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/admission_status.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/validate_register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/webpages/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/database/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/includes/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/profiles/admin_doc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/actions/get_medical_history.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <marker date="1493134166362" expanded="true" signature="422:436" ph="..." />
+            <marker date="1493134166362" expanded="true" signature="479:531" ph="SELECT * FRO... disease" />
+            <marker date="1493134166362" expanded="true" signature="706:719" ph="..." />
+            <marker date="1493134166362" expanded="true" signature="841:855" ph="..." />
+            <marker date="1493134166362" expanded="true" signature="945:1386" ph="..." />
+            <marker date="1493134166362" expanded="true" signature="1480:2478" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
